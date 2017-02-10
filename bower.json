@@ -1,0 +1,25 @@
+{
+  "name": "wave-animation",
+  "main": "wave-animation.js",
+  "authors": [
+    "Ninh Pham <dongian.rapclubkhtn@gmail.com>"
+  ],
+  "description": "An implementation of Google Chrome logo effect using pure JS",
+  "keywords": [
+    "Chrome",
+    "logo",
+    "animation",
+    "Chrome",
+    "logo",
+    "effect"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
