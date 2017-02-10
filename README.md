@@ -2,7 +2,7 @@
 
 ![demo](demo.gif)
 
-See this effect on https://www.google.com/intl/en/chrome/browser/. Just mouse on the Google Chrome logo.
+See this effect on https://www.google.com/intl/en/chrome/browser/. Just hover your mouse on the Google Chrome logo.
 
 ## Installation
 ```sh
